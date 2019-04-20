@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-mp",
+  "version": "0.0.0",
+  "description": "ESLint configuration for WeChat Mini Program",
+  "main": "index.js",
+  "repository": "https://github.com/mp-components/eslint-config-mp",
+  "author": "pengtikui",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
