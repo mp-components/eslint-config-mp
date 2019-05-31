@@ -9,7 +9,7 @@ ESLint configuration for WeChat Mini Program
 ## 安装
 
 ```bash
-yarn add eslint-config-mp eslint-config-airbnb-base eslint eslint-plugin-import  --dev
+yarn add eslint-config-mp eslint-config-airbnb-base eslint eslint-plugin-import --dev
 # 或
 npm install eslint-config-mp eslint-config-airbnb-base eslint eslint-plugin-import --save-dev
 ```
